@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "기초 데이터 분석 및 시각화"
-categories: data analysis
+categories: data-analysis
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false

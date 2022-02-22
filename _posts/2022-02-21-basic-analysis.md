@@ -6,7 +6,7 @@ tag: [python, blog, jekyll]
 toc: true
 author_profile: false
 sidebar:
-  nav: "docs"
+    nav: "docs"
 ---
 
 <head>

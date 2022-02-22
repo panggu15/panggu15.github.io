@@ -5,6 +5,8 @@ categories: da-analysis
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 <head>

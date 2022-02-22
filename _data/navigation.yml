@@ -9,8 +9,8 @@ main:
 
 docs:
   - title: "대목차"
-  children:
-    - title: "Category"
-      url: /categories/
-    - title: "Tag"
-      url: /tags/
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/

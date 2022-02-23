@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Category"
+  - title: "데이터 분석"
     url: /categories/
   - title: "Tag"
     url: /tags/

@@ -2,7 +2,7 @@
 main:
   - title: "데이터 분석"
     url: /categories/
-  - title: "Tag"
+  - title: "딥러닝 공부"
     url: /tags/
   - title: "Search"
     url: /search/

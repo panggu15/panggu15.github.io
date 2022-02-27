@@ -17,9 +17,3 @@ docs:
     children:
       - title: "딥러닝 공부"
         url: /tags/
-        
-  - title: "Etc"
-    children:
-      - title: "Jekyll"
-        url: jekyll/
-        category: "jekyll"

@@ -1,7 +1,7 @@
 ---
 title: "nlp분석"
 layout: archive
-permalink: categories/nlp분석
+permalink: categories/nlp
 author_profile: true
 sidebar_main: true
 ---

@@ -23,21 +23,8 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "nlp_anal" %}
-                        <li><a href="/categories/nlp_anal" class="">nlp 분석 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
         <span class="nav__sub-title">딥러닝 STUDY</span>
-            <ul>
-                {% for category in site.categories %}
-                    {% if category[0] == "시계열예측" %}
-                        <li><a href="/categories/시계열예측" class="">시계열 예측 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
+            
       </li>
   </ul>
 </nav>

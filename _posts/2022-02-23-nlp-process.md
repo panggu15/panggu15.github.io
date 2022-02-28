@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "nltk 자연어 전처리 및 토큰화"
-categories: process
+categories: nlp분석
 toc: true
 author_profile: false
 ---

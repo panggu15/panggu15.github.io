@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "구글 이미지 크롤링 코드"
-categories: 데이터수집
+categories: data_collect
 toc: true
 author_profile: false
 ---

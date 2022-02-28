@@ -27,7 +27,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "시계열예측" %}
-                        <li><a href="/categories/" class="">시계열 예측 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/시계열예측" class="">시계열 예측 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

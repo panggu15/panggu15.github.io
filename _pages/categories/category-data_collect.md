@@ -1,13 +1,13 @@
 ---
 title: "데이터 수집"
 layout: archive
-permalink: categories/데이터수집
+permalink: categories/data_collect
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.데이터수집 %}
+{% assign posts = site.categories.data_collect %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
 
 <!-- https://ansohxxn.github.io/blog/category/ -->

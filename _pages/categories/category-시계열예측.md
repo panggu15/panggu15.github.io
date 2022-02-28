@@ -1,7 +1,7 @@
 ---
-title: "시계열 예측"           <!-- 수정 -->
+title: "시계열 예측"           
 layout: archive
-permalink: categories/시계열예측      <!-- 수정 -->
+permalink: categories/시계열예측      
 author_profile: true
 sidebar_main: true
 ---

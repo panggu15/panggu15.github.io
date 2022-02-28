@@ -22,6 +22,8 @@
                         <li><a href="/categories/basic" class="">기초 데이터 분석 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
+            </ul>
+            <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "nlp분석" %}
                         <li><a href="/categories/nlp분석" class="">nlp 분석 ({{category[1].size}})</a></li>

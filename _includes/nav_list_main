@@ -25,8 +25,8 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "nlp분석" %}
-                        <li><a href="/categories/nlp" class="">nlp 분석 ({{category[1].size}})</a></li>
+                    {% if category[0] == "nlp_anal" %}
+                        <li><a href="/categories/nlp_anal" class="">nlp 분석 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "nlp(한국어) 분석 및 시각화, 자연어 처리"
-categories: [basic, nlp분석]
+categories: [basic, nlp_anal]
 toc: true
 author_profile: false
 ---

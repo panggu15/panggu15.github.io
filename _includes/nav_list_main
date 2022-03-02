@@ -45,6 +45,13 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+            <ul> 
+                {% for category in site.categories %}
+                    {% if category[0] == "gan" %}
+                        <li><a href="/categories/sequence" class="">Gan STUDY ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>

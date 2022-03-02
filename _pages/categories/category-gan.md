@@ -1,5 +1,5 @@
 ---
-title: "Gan"
+title: "Gan STUDY"
 layout: archive
 permalink: categories/gan
 author_profile: true

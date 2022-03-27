@@ -68,6 +68,13 @@
             </ul>
             <ul> 
                 {% for category in site.categories %}
+                    {% if category[0] == "language" %}
+                        <li><a href="/categories/language" class="">  ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul> 
+                {% for category in site.categories %}
                     {% if category[0] == "etc" %}
                         <li><a href="/categories/etc" class="">etc ({{category[1].size}})</a></li>
                     {% endif %}

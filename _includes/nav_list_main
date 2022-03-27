@@ -69,7 +69,7 @@
             <ul> 
                 {% for category in site.categories %}
                     {% if category[0] == "language" %}
-                        <li><a href="/categories/language" class="">  ({{category[1].size}})</a></li>
+                        <li><a href="/categories/language" class="">자연어  ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

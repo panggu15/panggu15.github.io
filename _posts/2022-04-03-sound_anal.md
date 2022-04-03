@@ -125,9 +125,6 @@ audio_path = '/content/drive/MyDrive/Data/genres_original/blues/blues.00000.wav'
 ipd.Audio(audio_path)
 ```
 
-<pre>
-<IPython.lib.display.Audio object>
-</pre>
 # 1. waveform (파형)
 
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "pytorch transforms"
+title:  "pytorch transform"
 categories: image
 tag: pytorch
 toc: true
@@ -98,9 +98,6 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 torch.manual_seed(777)
 ```
 
-<pre>
-<torch._C.Generator at 0x7f31a1071730>
-</pre>
 
 ```python
 train_set = torchvision.datasets.CIFAR100(
@@ -122,10 +119,23 @@ for i in train_loader:
     plt.figure(figsize=(16,10))
     for img in i[0][:4]:
         plt.subplot(1, int(len(i[0])/4), s)
-        plt.imshow(np.array(np.transpose(img, (1,2,0))))
+        plt.imshow(train_set[])
         # plt.imshow(np.transpose(img, (1,2,0)))
         s = s + 1
     break
+plt.show()
+```
+
+<pre>
+<Figure size 1152x720 with 4 Axes>
+</pre>
+
+```python
+plt.figure(figsize=(16,10))
+for i in range(4):
+    img, label = train_set[i]
+    plt.subplot(1, 4, i+1)
+    plt.imshow(np.transpose(img, (1,2,0)))
 plt.show()
 ```
 

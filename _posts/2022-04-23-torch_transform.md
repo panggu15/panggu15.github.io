@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[데이터 증강]Pytorch transform(변형)으로 이미지 증강 처리"
+title:  "[데이터 증강]Pytorch transform(변형)종류 살펴보고 이미지 증강 처리"
 categories: image
 tag: pytorch
 toc: true

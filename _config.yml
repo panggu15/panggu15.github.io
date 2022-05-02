@@ -20,7 +20,7 @@ title                    : "얼타고의 개발노트"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ultago"
-description              : "얼타고의 블로그입니다.k"
+description              : "얼타고의 블로그입니다."
 url                      : "https://panggu15.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-   <loc>https://panggu15.github.io/</loc>
+   <loc>https://panggu15.github.io/basic/basic-analysis/</loc>
    <lastmod>2022-05-04T17:25:53+00:00</lastmod>
    <changefreq>monthly</changefreq>
-   <priority>1.0000</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
-   <loc>https://panggu15.github.io/basic/basic-analysis/</loc>
+   <loc>https://panggu15.github.io/basic/nlp_anal/korean-anlaysis/</loc>
+   <lastmod>2022-05-04T17:25:53+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://panggu15.github.io/sequence/prophet-%EC%A3%BC%EC%8B%9D-%EC%98%88%EC%B8%A1/</loc>
    <lastmod>2022-05-04T17:25:53+00:00</lastmod>
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>

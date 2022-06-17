@@ -217,4 +217,10 @@
    <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
+<url>
+   <loc>https://panggu15.github.io/language/Pororo/</loc>
+   <lastmod>2022-05-04T17:25:53+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
 </urlset>

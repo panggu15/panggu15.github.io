@@ -253,4 +253,10 @@
    <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
+<url>
+   <loc>https://panggu15.github.io/basic/seaborn/</loc>
+   <lastmod>2022-09-18T17:25:53+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
 </urlset>

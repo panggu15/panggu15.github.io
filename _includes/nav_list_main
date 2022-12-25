@@ -54,7 +54,7 @@
             <ul> 
                 {% for category in site.categories %}
                     {% if category[0] == "machine_learning" %}
-                        <li><a href="/categories/machine_learning" class="">이상치 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/machine_learning" class="">머신러닝 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

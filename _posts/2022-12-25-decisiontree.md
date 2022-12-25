@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "머신러닝 - 결정 트리(Decision) 쉽게 이해하고 구현하기"
-categories: machine_learing
+categories: machine_learning
 toc: true
 author_profile: false
 ---

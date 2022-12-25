@@ -1,5 +1,5 @@
 ---
-title: "시계열"
+title: "머신러닝"
 layout: archive
 permalink: categories/machine_learning
 author_profile: true

@@ -51,13 +51,6 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            <ul> 
-                {% for category in site.categories %}
-                    {% if category[0] == "machine_learning" %}
-                        <li><a href="/categories/machine_learning" class="">머신러닝 ({{category[1].size}})</a></li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
         <span class="nav__sub-title">딥러닝 STUDY</span>
             <ul> 
                 {% for category in site.categories %}

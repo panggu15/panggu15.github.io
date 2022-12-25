@@ -78,7 +78,7 @@ author_profile: false
 </head>
 
 
-# Decision Tree 알고리즘
+# Decision Tree 알고리즘 이란 무엇인가?
 
 
 

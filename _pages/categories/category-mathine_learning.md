@@ -1,7 +1,7 @@
 ---
 title: "시계열"
 layout: archive
-permalink: categories/machine learning
+permalink: categories/machine_learning
 author_profile: true
 sidebar_main: true
 ---
